@@ -1,0 +1,32 @@
+# documentacion
+
+### JAVA HOME 
+Este proyecto tiene como objetivo facilitar el aprendizaje del lenguaje de programacion Java mediante el uso de un editor interactivo. En este entorno, es posible escribir, modificar y ejecutar fragmentos de codigo, observando los resultados directamente en el navegador. De esta manera, se busca fortalecer la comprension de los conceptos fundamentales de Java a traves de la practica y la experimentacion.
+
+### JAVA INTRO
+
+## ¿Que es Java?
+
+Java es un lenguaje de programacion creado en 1995, reconocido por su potencia y versatilidad. 
+Entre sus principales aplicaciones se encuentran:
+- Desarrollo de aplicaciones moviles, especialmente para Android.
+- Creacion de programas de escritorio y plataformas web.
+- Desarrollo de servidores y videojuegos.
+- Conexion y gestion de bases de datos.
+Gracias a su versatilidad, Java es una herramienta fundamental en el desarrollo de software.
+
+## ¿Por que utilizar Java?
+
+Java es facil de aprender, gratuito, seguro y compatible con diferentes sistemas operativos. Ademas, permite reutilizar codigo y es muy utilizado en el desarrollo de software.
+
+### JAVA GETTING STARTED
+
+## Instalacion de Java
+
+Para utilizar Java en tu computadora, es necesario comprobar si ya esta instalado. En Windows, puedes hacerlo buscando Java en el menu de inicio o ejecutando un comando en la consola (CMD).
+
+### JAVA SYNTAX
+
+## synctax
+
+En Java, el código debe estar dentro de una clase, cuyo nombre debe coincidir con el del archivo. Además, Java distingue entre mayúsculas y minúsculas. Los archivos deben guardarse con la extensión `.java` para poder ejecutar el programa correctamente.
